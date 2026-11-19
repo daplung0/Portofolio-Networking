@@ -9,7 +9,7 @@ This repository presents a compilation of network topology projects that demonst
 - **Technology:** VLAN, Inter-VLAN Routing, DHCP, eBGP, NAT/PAT
 - **Project Status:** Completed
 
-[View Full Project](https://efficacious-duck-a8a.notion.site/Build-Networking-OSPF-in-Cisco-380b3a36addf8002a550f68ff81ea880) 
+[View Full Project](https://github.com/daplung0/Enterprise-Network-Implementation-VLAN-eBGP-Routing-Static-NAT-and-NAT-Overload-PAT-) 
 
 ---
 ### 02. Enterprise Network Implementation: OSPF,Port Security, 
