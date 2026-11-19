@@ -3,7 +3,7 @@ This repository presents a compilation of network topology projects that demonst
 
 ## 📚  Project 
 
-### 01. Enterprise Network Implementation: VLAN, eBGP Routing, and NAT Overload)
+### 01. Enterprise Network Implementation: VLAN, eBGP Routing, and NAT Overload
 - **Project Category:** Network Engineering
 - **Platform:** Cisco Packet Tracer
 - **Technology:** VLAN, Inter-VLAN Routing, DHCP, eBGP, NAT/PAT
